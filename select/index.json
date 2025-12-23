@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "スケッチ",
+  "base_artist": "aimyon",
+  "createdAt": "2025-12-23T07:58:38.814413Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スケッチ",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_スケッチ_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "スケッチ",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_02_スケッチ_あいみょん.txt"
+    }
+  ]
+}
